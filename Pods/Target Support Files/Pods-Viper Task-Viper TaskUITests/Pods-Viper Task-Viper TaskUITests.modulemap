@@ -1,0 +1,6 @@
+framework module Pods_Viper_Task_Viper_TaskUITests {
+  umbrella header "Pods-Viper Task-Viper TaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
